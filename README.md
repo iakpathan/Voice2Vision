@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 Creating high-quality, stylistically consistent visuals remains **costly, slow, and skill-dependent** for many users — especially across design, education, marketing, and content industries. There’s a growing need for tools that make visual content creation **fast, accessible, and style-rich** without sacrificing quality.
 
 ---
 
-## 🎯 Solution
+## Solution
 
 This project offers a streamlined AI-powered **image generation platform** that:
 - Accepts **voice-based natural language input**
@@ -24,24 +24,24 @@ By blending state-of-the-art **LLMs** and **open-source diffusion models**, user
 
 ## ✨ Features
 
-- 🎙 **Voice Input**  
+-  **Voice Input**  
   Record voice in-browser to generate descriptive prompts
 
-- 🧠 **Prompt Enhancement with LLM (Groq LLaMA 3)**  
+-  **Prompt Enhancement with LLM (Groq LLaMA 3)**  
   Automatically enhance user prompts using rich artistic language
 
-- 🎨 **Custom Art Styles**  
+-  **Custom Art Styles**  
   Choose from styles like *Realistic, Anime, Van Gogh, Cyberpunk*, and more
 
-- 🖼️ **AI Image Generation**  
+- **AI Image Generation**  
   Powered by **Stable Diffusion XL**, ensuring high-quality, stylized results
 
-- ⬇️ **Downloadable Output**  
+- **Downloadable Output**  
   Save generated images locally for reuse or publishing
 
 ---
 
-## 💡 Significance of AI Image Generation
+##  Significance of AI Image Generation
 
 - Enhances creativity and idea visualization  
 - Saves time and reduces design/photography costs  
@@ -56,7 +56,7 @@ By blending state-of-the-art **LLMs** and **open-source diffusion models**, user
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component        | Technology                             |
 |------------------|----------------------------------------|
@@ -69,7 +69,7 @@ By blending state-of-the-art **LLMs** and **open-source diffusion models**, user
 
 ---
 
-## 🚀 How to Run (in Google Colab)
+##  How to Run (in Google Colab)
 
 1. Open the Colab notebook
 2. Run the first cell to install dependencies
@@ -81,13 +81,13 @@ By blending state-of-the-art **LLMs** and **open-source diffusion models**, user
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and intended for educational and non-commercial use. Refer to the individual model licenses for reuse rights.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [Groq API](https://groq.com/)
 - [Hugging Face – Stable Diffusion XL](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
@@ -96,4 +96,4 @@ This project is open-source and intended for educational and non-commercial use.
 
 ---
 
-> Made with 💡 by combining voice, vision, and generative AI.
+> Made with idea by combining voice, vision, and generative AI.
